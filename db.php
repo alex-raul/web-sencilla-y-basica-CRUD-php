@@ -2,7 +2,7 @@
 $servername = "127.0.0.1:3307";
 $username = "root"; 
 $password = "";    
-$dbname = "mi_db_lex";
+$dbname = "crud_db";
 
 
 $conn = new mysqli($servername, $username, $password, $dbname);
