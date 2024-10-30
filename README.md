@@ -30,5 +30,5 @@ Inicia los módulos de Apache y MySQL en el panel de control de XAMPP.
 ### 4. Ejecutar el proyecto
 
 - **Coloca la carpeta del proyecto dentro de la carpeta htdocs de XAMPP.
-Ruta: C:\xampp\htdocs\tu-proyecto.**
-- **Abre tu navegador y dirígete a http://localhost/tu-proyecto/inicio.php.**
+Ruta: C:\xampp\htdocs\myweb**
+- **Abre tu navegador y dirígete a http://localhost/myweb/inicio.php.**
