@@ -1,0 +1,36 @@
+
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.hero {
+    background: url('https://media.gettyimages.com/id/1457735277/es/foto/riyadh-saudi-arabia-leo-messi-of-paris-saint-germain-and-cristiano-ronaldo-of-ruyadh-xi-fight.jpg?s=612x612&w=gi&k=20&c=CA2_z5AUpH6NYCW1wOSxSNZrY4kly__mVt4oJsAymeo=') no-repeat center center/cover;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+.list-group-item a {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+}
+.custom-img {
+    width: 400px;
+    height: 200px;
+    object-fit: cover; 
+}
